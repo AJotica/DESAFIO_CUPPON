@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar-logo {
+    height: 25px;
+    width: 86px;
+}
+
+.success-bg {
+    background-color: #28a745;
+    color: #fff;
+ }
+
+ .footer-logo {
+    height: 24px;
+    width: 82px;
+}
+
+.card-text {
+    color:#707070;
+    font-weight: 300;
+}
+
+.button {
+    border-radius: 4px;
+}
+
+form {
+    margin: 10px 10%;
+}
+
+.bonus-span {
+    font-weight: 300;
+}
+
+.card-title {
+    color: #212529;
+    font-weight: 300;
+}
+
+h2 {
+    color: #F8F9FA;
+    font-weight: 500;
+}
+
+footer {
+    color: #707070;
+    font-weight: 300;
+}
